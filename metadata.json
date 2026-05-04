@@ -1,0 +1,8 @@
+{
+  "name": "Remix: PsiqueSim 3.0",
+  "description": "An AI-powered training platform for psychologists to practice and perfect their therapeutic skills in a secure, simulated environment.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
